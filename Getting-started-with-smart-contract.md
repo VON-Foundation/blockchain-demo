@@ -84,21 +84,39 @@ This curriculum provides a step-by-step path for newcomers to build and deploy s
 This path minimizes setup complexity while maximizing hands-on practice. Within 1 hour, you’ll have a live contract on BSC Testnet. Experiment freely—testnet tokens have no real value, making it ideal for rapid iteration [8][3].
 
 [1] https://www.binance.com/en/square/post/23824915087697
+
 [2] https://www.binance.com/en-BH/square/post/249110
+
 [3] https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
+
 [4] https://blog.thirdweb.com/guides/how-to-deploy-a-smart-contract-on-binance-smart-chain-bnb/
+
 [5] https://scortik.com/how-to-create-and-deploy-a-contract-to-the-binance-smart-chain-using-remix-ide/
+
 [6] https://webisoft.com/articles/how-to-create-a-token-on-binance-smart-chain/
+
 [7] https://www.rapidinnovation.io/post/how-to-create-a-smart-contract-on-bsc
+
 [8] https://fsr-develop.com/blog-cscalp/tpost/k36bu1d4t1-what-is-binance-testnet-and-how-does-it
+
 [9] https://www.binance.com/en-AE/square/post/11664786956130
+
 [10] https://www.youtube.com/watch?v=45uWIl2Ix4E
+
 [11] https://www.bitdegree.org/crypto/tutorials/how-to-create-a-token-on-bsc
+
 [12] https://www.risein.com/blog/beginners-guide-to-smart-contracts
+
 [13] https://academy.binance.com/courses
+
 [14] https://www.linkedin.com/pulse/deploying-smart-contracts-binance-chain-comprehensive-kassy-olisakwe
+
 [15] https://maticz.com/binance-smart-chain-smart-contract-development
+
 [16] https://www.youtube.com/watch?v=aFlZi2oVojY
+
 [17] https://github.com/Refloow/BEP20-Smart-Contract
+
 [18] https://webisoft.com/articles/how-to-deploy-smart-contract/
+
 [19] https://www.udemy.com/course/create-your-own-cryptocurrency-on-binance-smart-chain/?amp=&pmtag=CAREERS24LEARN15
